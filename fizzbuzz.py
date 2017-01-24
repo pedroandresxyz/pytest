@@ -18,4 +18,4 @@ class FizzBuzz:
 fb = FizzBuzz(1,101)
 
 for i in fb.nums:
-    print fb.fizzcheck(i)
+    print (fb.fizzcheck(i))
